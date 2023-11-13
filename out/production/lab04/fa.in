@@ -1,4 +1,5 @@
 Q={r, s, v}
 q0=r
-F={s, v}
+F={s, v, r}
+delta={(r 0 s),(r 1 v),(s 0 r),(s 1 v),(v 0 s),(v 1 r)}
 sigma={0, 1}
